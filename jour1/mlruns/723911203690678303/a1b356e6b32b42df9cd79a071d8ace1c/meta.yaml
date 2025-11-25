@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eaedk_pro/Documents/GitHub/mlops/jour1/mlruns/723911203690678303/a1b356e6b32b42df9cd79a071d8ace1c/artifacts
+end_time: 1764063973860
+entry_point_name: ''
+experiment_id: '723911203690678303'
+lifecycle_stage: active
+run_id: a1b356e6b32b42df9cd79a071d8ace1c
+run_name: Gradient_Boosting_AutoLog
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764063971689
+status: 3
+tags: []
+user_id: eaedk_pro

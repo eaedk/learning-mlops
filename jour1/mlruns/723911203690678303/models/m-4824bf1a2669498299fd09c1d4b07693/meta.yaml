@@ -1,0 +1,10 @@
+artifact_location: file:///Users/eaedk_pro/Documents/GitHub/mlops/jour1/mlruns/723911203690678303/models/m-4824bf1a2669498299fd09c1d4b07693/artifacts
+creation_timestamp: 1764063874461
+experiment_id: '723911203690678303'
+last_updated_timestamp: 1764063876213
+model_id: m-4824bf1a2669498299fd09c1d4b07693
+model_type: null
+name: model
+source_run_id: 53cce161789347c1a6a1c9c8029c07d6
+status: 2
+status_message: null

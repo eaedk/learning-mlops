@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eaedk_pro/Documents/GitHub/mlops/jour1/mlruns/723911203690678303/53cce161789347c1a6a1c9c8029c07d6/artifacts
+end_time: 1764063876216
+entry_point_name: ''
+experiment_id: '723911203690678303'
+lifecycle_stage: active
+run_id: 53cce161789347c1a6a1c9c8029c07d6
+run_name: Logistic_Regression_Manual
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764063874441
+status: 3
+tags: []
+user_id: eaedk_pro

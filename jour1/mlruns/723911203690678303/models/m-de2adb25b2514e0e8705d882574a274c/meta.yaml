@@ -1,0 +1,10 @@
+artifact_location: file:///Users/eaedk_pro/Documents/GitHub/mlops/jour1/mlruns/723911203690678303/models/m-de2adb25b2514e0e8705d882574a274c/artifacts
+creation_timestamp: 1764063969887
+experiment_id: '723911203690678303'
+last_updated_timestamp: 1764063971352
+model_id: m-de2adb25b2514e0e8705d882574a274c
+model_type: null
+name: model
+source_run_id: edb0973607b545b8834d2fc211d1c40e
+status: 2
+status_message: null

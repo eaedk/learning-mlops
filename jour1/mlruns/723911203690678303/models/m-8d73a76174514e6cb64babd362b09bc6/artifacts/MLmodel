@@ -1,0 +1,28 @@
+artifact_path: file:///Users/eaedk_pro/Documents/GitHub/mlops/jour1/mlruns/723911203690678303/models/m-8d73a76174514e6cb64babd362b09bc6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-8d73a76174514e6cb64babd362b09bc6
+model_size_bytes: 404030
+model_uuid: m-8d73a76174514e6cb64babd362b09bc6
+prompts: null
+run_id: a1b356e6b32b42df9cd79a071d8ace1c
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 8]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-25 09:46:12.441236'
